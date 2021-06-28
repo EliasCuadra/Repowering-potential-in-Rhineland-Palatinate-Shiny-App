@@ -1,0 +1,23 @@
+---
+title: "Visualisation of the wind energy power plant repowering potential in Rhineland Palatinate with R using Leaflet and Shiny"
+author: "Elias Cuadra, Kelly Lasisi, Anja Weiler"
+date: "12 4 2021"
+output:
+  html_document:
+    number_sections: no
+    toc: yes
+    toc_depth: 4
+    fontsize: 16pt
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### 1. Introduction
+
+![Image Title](/new/letter.pdf){width=65%}
+
+<object data="/new/letter.pdf" type="application/pdf" width="100%"> 
+</object>

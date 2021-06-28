@@ -1,0 +1,9 @@
+\contentsline {subsubsection}{1. Introduction}{1}{section*.2}%
+\contentsline {subsubsection}{2. Software and Data}{2}{section*.3}%
+\contentsline {paragraph}{2.1 Data from the transmission system operator Amprion and the market master data register (MaStR)}{2}{section*.4}%
+\contentsline {paragraph}{2.2 Data preparation}{2}{section*.5}%
+\contentsline {paragraph}{2.3 Creation of a Leaflet map of WEPP in Rhineland-Palatinate built before 2006}{2}{section*.6}%
+\contentsline {subsubsection}{3. Shiny application of the WEPP in Rhineland-Palatinate that are built before 2006}{4}{section*.7}%
+\contentsline {paragraph}{3.1 Code}{7}{section*.8}%
+\contentsline {paragraph}{3.2 Result}{7}{section*.9}%
+\contentsline {subsubsection}{4. Sources}{7}{section*.10}%
